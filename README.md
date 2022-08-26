@@ -7,6 +7,7 @@ Esse repositorio #aprenda-a-progaamar, tem varias atividades de progamação rea
 ```
 📦 aprenda-a-programar
  ┗ 📜 README.md (caso tenha feito o desafio opcional)
+ ┗ 📂 dia-1-primeios-passos
  ┗ 📂 tarefa-dia-1
    ┗ 📜 resumo-dia-1.md
  ┗ 📂 tarefa-dia-2
