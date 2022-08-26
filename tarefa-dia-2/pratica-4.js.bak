@@ -1,0 +1,14 @@
+let produtoA = {"nome": "camiseta", "valor": 100.00, "internacional": true};
+let produtoB = {"nome": "perfume", "valor": 200.00, "internacional": true};
+let produtoC = {"nome": "sandália", "valor": 120.00, "internacional": false};
+
+
+	let produtoInternacional =  true
+	
+	if(produtoA["internacional"] == produtoInternacional) {
+		valorFinalInternacional = produtoA.valor * 1.2
+        console.log(`Esse produto e importado, seu valor final é de ${valorFinalInternacional} R$`);
+
+    } else {  valorFinalNacional = produtoA.valor * 1.2
+        console.log(`Esse produto e importado, seu valor final é de ${valorFinalInter} R$`);
+    }
