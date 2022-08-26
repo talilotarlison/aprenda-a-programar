@@ -11,18 +11,19 @@
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-# aprenda-a-programar
+#Imersão ITuring
+## aprenda-a-programar
 
 Esse repositorio #aprenda-a-programar, tem varias atividades de progamação realizado na Imersão de progamação da iTuring, um evento que durou 5 dias de aula com bastante conteúdo para expandir nosso 
 conhecimento para comercar nossos primeiros passos no mundo da programação.
 
 
-# RESUMO DE TODAS AS TAREFAS:
+## RESUMO DE TODAS AS TAREFAS:
 ```
 📦 aprenda-a-programar
  ┗ 📜 README.md (caso tenha feito o desafio opcional)
  ┗ 📂 dia-1-primeios-passos
- ┗ 📂 tarefa-dia-1
+    ┗ 📂 tarefa-dia-1
    ┗ 📜 resumo-dia-1.md
  ┗ 📂 tarefa-dia-2
    ┣ 📜 index.html
@@ -36,7 +37,7 @@ conhecimento para comercar nossos primeiros passos no mundo da programação.
    ┣ 📜 pratica-3.js
    ┣ 📜 pratica-4.js (caso tenha feito o desafio opcional)
    ┗ 📜 pratica-5.js (caso tenha feito o desafio opcional)
-   ┗ 📂 tarefa-dia-4. (projeto de criador de tarefas)
+ ┗ 📂 tarefa-dia-4. (projeto de criador de tarefas)
       ┗ 📂 img
     ┣ 📜 index.html
 ```
