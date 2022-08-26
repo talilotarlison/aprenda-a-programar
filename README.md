@@ -18,11 +18,11 @@ Esse repositorio #aprenda-a-programar, tem varias atividades de progamação rea
 conhecimento para comercar nossos primeiros passos no mundo da programação.
 
 
-## RESUMO DE TODAS AS TAREFAS:
+### RESUMO DE TODAS AS TAREFAS:
 ```
 📦 aprenda-a-programar
  ┗ 📜 README.md (caso tenha feito o desafio opcional)
- ┗ 📂 dia-1-primeios-passos
+ ┗ 📂 dia-1-primeiros-passos
     ┗ 📂 tarefa-dia-1
     ┗ 📜 resumo-dia-1.md
     ┗ 📜 comandos-terminal.txt
