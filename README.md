@@ -1,6 +1,7 @@
 # aprenda-a-programar
 
-Esse repositorio #aprenda-a-progaamar, tem varias atividades de progamação realizado na Imersão de progamação da iTuring, um evento que durou 5 dias de aula com bastante conhecimento para comercar nossos primeiros passo na progamação.
+Esse repositorio #aprenda-a-programar, tem varias atividades de progamação realizado na Imersão de progamação da iTuring, um evento que durou 5 dias de aula com bastante conteúdo para expandir nosso 
+conhecimento para comercar nossos primeiros passos no mundo da progciaamação.
 
 
 # RESUMO DE TODAS AS TAREFAS:
@@ -22,7 +23,7 @@ Esse repositorio #aprenda-a-progaamar, tem varias atividades de progamação rea
    ┣ 📜 pratica-3.js
    ┣ 📜 pratica-4.js (caso tenha feito o desafio opcional)
    ┗ 📜 pratica-5.js (caso tenha feito o desafio opcional)
-   ┗ 📂 tarefa-dia-4. (projeto de 
+   ┗ 📂 tarefa-dia-4. (projeto de criador de tarefas)
       ┗ 📂 img
     ┣ 📜 index.html
 ```
