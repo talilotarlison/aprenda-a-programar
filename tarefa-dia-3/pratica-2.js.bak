@@ -5,5 +5,5 @@ while (n1 <10) {
  
   n1++;
   n2 = 9 * n1
-  console.log(9 + "x" + n1 + "-" + n2);
+  console.log(9 + "x" + n1 + "=" + n2);
 }

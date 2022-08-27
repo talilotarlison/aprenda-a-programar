@@ -1,3 +1,5 @@
+//taboada da multiplicação por 9.
+
 var n1 = 0
 var n2 = 0
 

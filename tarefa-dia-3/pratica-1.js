@@ -1,16 +1,17 @@
+//Imprimir numeros de 1 a 9.
 
-//metodo 1 utilizado
+//metodo 1 utilizado:
 
 var n = 1 
 
-while (n <= 15) {
+while (n <= 9) {
  console.log(n);
   n++;
 }
 
 
 
-//metodo 2 utilizado
+//metodo 2 utilizado:
 
 var n = 9
 
