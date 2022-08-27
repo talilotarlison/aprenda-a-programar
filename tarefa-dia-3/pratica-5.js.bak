@@ -112,7 +112,7 @@ while (i < receita.length){
 
 }
 
-  console.log("valor total sem gorjeta é " + semGorjeta)
+  console.log("valor total sem gorjeta" + semGorjeta)
 /* ----------------------------------------------------------------------------- */
 
 /* PROBLEMA 2: Qual o valor total de vendas incluindo a gorjeta? --------------- */
@@ -126,7 +126,7 @@ while (i < receita.length){
 
 }
 
-  console.log("valor total com gorjeta é " + valorTotal)
+  console.log("valor total com gorjeta" + valorTotal)
 /* ----------------------------------------------------------------------------- */
 
 /* PROBLEMA 3: Quantas vendas foram abaixo de 50 reais? ----------------------- */
