@@ -1,0 +1,161 @@
+html, body {
+	font-family: 'Prompt', sans-serif;
+	font-size: 20px;
+	background-color:  #043f5f;
+	max-height: 100vw;
+}
+header {
+   display:flex;
+   justify-content: space-between;
+   align-items:center;
+   margin: 10px;
+}
+.logo{
+	width: 200px;
+	margin: 10px;
+	
+
+}
+
+.bola-logo{
+	display:flex;
+	align-items:center;
+}
+
+.bola{
+	width: 20px;
+	height:20px;
+	border-radius: 50%;
+	/*background-color:  #191970;*/
+	margin: 0 5px ;
+	
+}
+
+.cor1{
+	 background-color: red;
+}
+
+.cor2{
+	 background-color: yellow;
+}
+.cor3{
+	 background-color: green;
+}
+
+.titulo-principal {
+	text-align: center;
+	
+}
+
+.titulo-principal > h1 {
+	text-transform: uppercase;
+	color: white;
+	font-weight: bold;
+	margin: 0;
+}
+
+
+.titulo-principal > h3 {
+	text-transform: uppercase;
+	color: white;
+	font-weight: normal;
+	margin: 0; 
+}
+
+.tarefas-add{
+	text-align: center;
+}
+
+.tarefas-add > input {
+		width: 75%;
+		height: 40px;
+		border: solid 2px #008073;
+		border-radius: 5px;
+		padding:10px;
+}
+
+.tarefas-add > Button {
+	width: 150px;
+	height: 30px;
+	background-color:  #008073;
+	color: white;
+	margin: 25px 0 ;
+	border-radius: 15px;
+	border: none;
+	text-transform: uppercase;
+	cursor: pointer;
+	font-weight: bold;
+}
+.tarefas-add > button:hover {
+	background-color: #00807350 ;
+}
+.bola:hover {
+	background-color: #094472 ;
+}
+
+main {
+	max-width: 780px;
+	margin: 0 auto;
+	text-align:center;
+}
+
+li{
+	margin: 10px 10px;
+	text-decoration: none; 
+}
+
+.adicionado{
+	background-color: white;
+	color: black;
+	border-radius: 5px;
+	border: solid 2px #008073;
+	display: flex;
+	justify-content: space-between;
+	align-items:center;
+	 	
+}
+
+
+
+
+.adicionado > button {
+	margin: 10px;
+	width: 20px;
+	height: 20px;
+	border: none;
+	border-radius: 50%;
+	background-color: red;
+	color: white;
+	font-weight: bold;
+}
+
+.adicionado > p {
+	color: gray;
+	padding: 5px;
+}
+
+.adicionado > button:hover{
+	opacity: 0.3;
+	
+}
+
+button{
+	width: 150px;
+	height: 30px;
+	background-color:  #0e4472;
+	color: white;
+	margin: 25px 0 ;
+	border-radius: 15px;
+	border: none;
+	text-transform: uppercase;
+	cursor: pointer;
+	font-weight: bold;
+	
+}
+
+button:hover{
+	opacity: 0.3;
+}
+
+
+
