@@ -39,6 +39,9 @@ conhecimento para comercar nossos primeiros passos no mundo da programação.
    ┣ 📜 pratica-4.js (caso tenha feito o desafio opcional)
    ┗ 📜 pratica-5.js (caso tenha feito o desafio opcional)
  ┗ 📂 tarefa-dia-4. (projeto de criador de tarefas)
-      ┗ 📂 img
-      ┣ 📜 index.html
+      ┗ 📂 assets
+           ┗ 📂 img
+           ┗ 📂 css          
+           ┗ 📂 js
+        ┣ 📜 index.html
 ```
