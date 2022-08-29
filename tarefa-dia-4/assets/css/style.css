@@ -1,7 +1,7 @@
 html, body {
 	font-family: 'Prompt', sans-serif;
 	font-size: 20px;
-	background-color:  #043f5f;
+	background-color:   #23292e;;
 	max-height: 100vw;
 }
 header {
@@ -56,7 +56,7 @@ header {
 
 
 .titulo-principal > h3 {
-	text-transform: uppercase;
+	text-transform: normal;
 	color: white;
 	font-weight: normal;
 	margin: 0; 
@@ -90,7 +90,8 @@ header {
 	background-color: #00807350 ;
 }
 .bola:hover {
-	background-color: #00807350 ;
+	/*background-color: #00807350 ;*/
+	opacity: 0.1;
 }
 
 main {
@@ -142,7 +143,7 @@ li{
 button{
 	width: 150px;
 	height: 30px;
-	background-color:  #0e4472;
+	background-color:  #4f6791;
 	color: white;
 	margin: 25px 0 ;
 	border-radius: 15px;
@@ -154,7 +155,7 @@ button{
 }
 
 button:hover{
-	opacity: 0.3;
+	opacity: 0.5;
 }
 
 

@@ -1,13 +1,50 @@
 
+var minhaTarefa = document.getElementById("minha-tarefa")
+
+var addTarefa = document.getElementById("add-list");
+
+var addNaTela = document.getElementById("tela");
+
+addTarefa.addEventListener("click", adicionarNaTela)
+ 
+ function adicionarNaTela() {
+	// var item = document.createElement("li")
+	 addNaTela.innerHTML =  addNaTela.innerHTML  + `<li class="adicionado">
+							<p> ${minhaTarefa.value} </p>
+							<button type="submit">X</button>
+							</li>`
+	   
+	   
+	   minhaTarefa.value = ""
+   }
 
 
+/*Coloquei onclick no botao no html para chamar a função myFunctionAlert 
+
+adicionei o alerta na tela tambem, confirmando a operação do usuario
+
+apenas um exemplo que como chamar a função pelo evento de click no botao
+*/
+
+
+function myFunctionAlert(){	
+	alert("Tarefa Adicionada com Sucesso!!");
 }
 
 
+/* 
+Coloquei onclick no botao no html para chamar a função apagarTudo que vai deixa o campo da ul vazio.
+adicionei o alerta na tela tambem.
 
 
+*/
 
-
+function apagarTudo(){
+	alert("Removido todas as tarefas!!")
+	addNaTela.innerHTML = ""
+	
+}
+	   
 
 
 
